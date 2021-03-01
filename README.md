@@ -32,8 +32,8 @@
 - <인증 과정 분류 방법 및 그 장치> 출원번호 : 10 - 2020-0107970 
 
 ### ✨ HONORS & AWARDS
-- 우수상(학부생 부문), KSC 2020 한국정보과학회, Jan 2021.
-- National Science& Technology Scholarship(이공계 국가 장학금, 2년 전액 장학), Apr 2019.
+- "한국인 안면 이미지를 활용한 마스크 착용 데이터 증강 및 마스크 착용 얼굴 인식", 우수상(학부생 부문), KSC 2020 한국정보과학회, Jan 2021.
+- National Science&Technology Scholarship(이공계 국가 장학금), Apr 2019.
 <!--
 **JaeheeRyu/JaeheeRyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
