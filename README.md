@@ -1,3 +1,4 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaeheeRyu&count_bg=%23BD4AED&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### Hi there 👋 I'm JaeheeRyu.
 
 - 🌱 I’m currently learning Artificial Inteligence at [BoostcampAI](https://boostcamp.connect.or.kr/).
@@ -34,6 +35,7 @@
 ### ✨ HONORS & AWARDS
 - "한국인 안면 이미지를 활용한 마스크 착용 데이터 증강 및 마스크 착용 얼굴 인식", 우수상, KSC 2020 한국정보과학회, Jan 2021.
 - National Science&Technology Scholarship(이공계 국가 장학금), Apr 2019.
+
 <!--
 **JaeheeRyu/JaeheeRyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
