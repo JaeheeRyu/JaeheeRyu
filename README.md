@@ -17,7 +17,7 @@
 - HR(Human Resource department) Full-time employee, <i>[HYUDAI MOBIS](https://www.mobis.co.kr/)</i>, Dec 2013 - Nov 2016.
 
 ### 📝 Research Experiences
-- [<i>Quality Management Laboratory</i>](https://qm.hanyang.ac.kr/), Hanyang Univ.
+- Undergraduate Research Students, [<i>Quality Management Laboratory</i>](https://qm.hanyang.ac.kr/), Hanyang Univ.
   - 합성곱 신경망 기반의 X-Ray 이미지 분석을 이용한 불량 탐지 방법 개발, 산학협력선도대학 육성사업, Jul - Oct, 2020.
   - Wafer Map 상의 군집성 불량 관리를 위한 공정경로 도출 방법, SK Hynix, Aug - Dec, 2019.
   - 빅데이터 애널리틱스를 이용한 다단계공정의 다중반응변수최적화, 한국연구재단, Jun 2018 - Jun 2019.
@@ -30,6 +30,10 @@
 
 ### 🔮 Patent
 - <인증 과정 분류 방법 및 그 장치> 출원번호 : 10 - 2020-0107970 
+
+### ✨ HONORS & AWARDS
+- 우수상(학부생 부문), KSC 2020 한국정보과학회, Jan 2021.
+- National Science& Technology Scholarship(이공계 국가 장학금, 2년 전액 장학), Apr 2019.
 <!--
 **JaeheeRyu/JaeheeRyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
