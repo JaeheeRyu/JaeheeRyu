@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Artificial Inteligence at [BoostcampAI](https://boostcamp.connect.or.kr/).
 - 🔭 I’m currently working on [PSYENCE](https://psyenceaihome.wpcomstaging.com/) as a AI Research Engineer.
-- 📫 How to reach me : [E-mail](unnjena@naver.com), [BLOG](https://wonder-j.tistory.com/) [YOUTUBE]()
+- 📫 How to reach me : [BLOG](https://wonder-j.tistory.com/), [YOUTUBE](https://www.youtube.com/channel/UCUdiaXkyIJXdYx4TJO-sj0g), E-mail : unnjena@naver.com
 
 ### 🏛 Education
 - 2017.03~2021.02 [Hanyang University(Seoul)](https://www.hanyang.ac.kr/)
