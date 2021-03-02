@@ -13,7 +13,7 @@
 - AI Research Engineer, [<i>PSYENCE</i>](https://psyenceaihome.wpcomstaging.com/), Sep 2020 - Prev.
 - AI developer Internship, <i>[MINDs n COMPANY](http://mnc.ai/)</i>, Mar - Jul, 2020.
 - SQA(Software Quality Assurance) Internship, <i>[WISEnut](https://www.wisenut.com/)</i>, Jan - Feb, 2020.
-- HR(Human Resource department) Full-time employee, <i>[HYUDAI MOBIS](https://www.mobis.co.kr/)</i>, Dec 2013 - Nov 2016.
+- HR(Human Resource department) Full-time employee, <i>[HYUNDAI MOBIS](https://www.mobis.co.kr/)</i>, Dec 2013 - Nov 2016.
 
 ### 📝 Research Experiences
 - Undergraduate Research Students, [<i>Quality Management Laboratory</i>](https://qm.hanyang.ac.kr/), Hanyang Univ.
