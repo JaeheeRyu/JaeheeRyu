@@ -8,8 +8,6 @@
 ### 🏛 Education
 - 2017.03~2021.02 [Hanyang University(Seoul)](https://www.hanyang.ac.kr/)
   - Major in IT Convergence / Minor in Information Systems
-  - Graduated 2nd class honor
-  - Overall GPA : 4.32/4.5(97.9/100)
 
 ### 🌟 Work Experiences
 - AI Research Engineer, [<i>PSYENCE</i>](https://psyenceaihome.wpcomstaging.com/), Sep 2020 - Prev.
