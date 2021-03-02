@@ -31,7 +31,7 @@
 - <인증 과정 분류 방법 및 그 장치> 출원번호 : 10 - 2020-0107970 
 
 ### ✨ HONORS & AWARDS
-- "한국인 안면 이미지를 활용한 마스크 착용 데이터 증강 및 마스크 착용 얼굴 인식", [우수상](http://www.kiise.or.kr/academy/board/academyNewsView.fa?MENU_ID=080100&sch_add_bd=%ED%95%99%ED%9A%8C%EC%86%8C%EC%8B%9D&NUM=2127), KSC 2020 한국정보과학회, Jan 2021.
+- "한국인 안면 이미지를 활용한 마스크 착용 데이터 증강 및 마스크 착용 얼굴 인식", 우수상, KSC 2020 한국정보과학회(http://www.kiise.or.kr/academy/board/academyNewsView.fa?MENU_ID=080100&sch_add_bd=%ED%95%99%ED%9A%8C%EC%86%8C%EC%8B%9D&NUM=2127), Jan 2021.
 - National Science&Technology Scholarship(이공계 국가 장학금), Apr 2019.
 
 <!--
