@@ -1,8 +1,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaeheeRyu&count_bg=%23BD4AED&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### Hi there 👋 I'm JaeheeRyu.
 
-- 🌱 I’m currently learning Artificial Inteligence at [BoostcampAI](https://boostcamp.connect.or.kr/).
-- 🔭 I’m currently working on [PSYENCE](https://psyenceaihome.wpcomstaging.com/) as a AI Research Engineer.
+- 🌱 I’m currently learning Artificial Intelligence at [BoostcampAI](https://boostcamp.connect.or.kr/).
+- 🔭 I’m currently working on [PSYENCE](https://psyenceaihome.wpcomstaging.com/) as an AI Research Engineer.
 - 📫 How to reach me : [BLOG](https://wonder-j.tistory.com/), [YOUTUBE](https://www.youtube.com/channel/UCUdiaXkyIJXdYx4TJO-sj0g), E-mail : unnjena@naver.com
 
 ### 🏛 Education
