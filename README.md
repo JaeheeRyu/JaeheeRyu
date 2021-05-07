@@ -2,7 +2,6 @@
 ### Hi there 👋 I'm JaeheeRyu.
 
 - 🌱 I’m currently learning Artificial Intelligence at [BoostcampAI](https://boostcamp.connect.or.kr/).
-- 🔭 I’m currently working on [PSYENCE](https://psyenceaihome.wpcomstaging.com/) as an AI Research Engineer.
 - 📫 How to reach me : [BLOG](https://wonder-j.tistory.com/), [YOUTUBE](https://www.youtube.com/channel/UCUdiaXkyIJXdYx4TJO-sj0g), E-mail : unnjena@naver.com
 
 ### 🏛 Education
@@ -10,7 +9,7 @@
   - Major in IT Convergence / Minor in Information Systems
 
 ### 🌟 Work Experiences
-- AI Research Engineer, [<i>PSYENCE</i>](https://psyenceaihome.wpcomstaging.com/), Sep 2020 - Prev.
+- AI Research Engineer, [<i>PSYENCE</i>](https://psyenceaihome.wpcomstaging.com/), Sep 2020 - Mar 2021.
 - AI developer Internship, <i>[MINDs n COMPANY](http://mnc.ai/)</i>, Mar - Jul, 2020.
 - SQA(Software Quality Assurance) Internship, <i>[WISEnut](https://www.wisenut.com/)</i>, Jan - Feb, 2020.
 - HR(Human Resource department) Full-time employee, <i>[HYUNDAI MOBIS](https://www.mobis.co.kr/)</i>, Dec 2013 - Nov 2016.
