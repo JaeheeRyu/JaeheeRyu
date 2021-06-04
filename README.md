@@ -26,8 +26,6 @@
 - 김은수, 조진수, <b>류재희</b>, 이동희, 민병석, ["객체탐지와 합성곱신경망을 이용한 음식물 이물질 탐지"](http://www.papersearch.net/thesis/article.asp?key=3841070), 품질경영학회, 대한상공회의소 추계학술대회, Oct 23, 2020.
 - 이초희, 양진경, <b>류재희</b>, 이동희 ["주성분회귀분석을 이용한 국가기초구역별 시간대별 범죄 예측 모델 개발"](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE07420676), 대한산업공학회 춘계학술대회, Apr 4-7, 2018.
 
-### 🔮 Patent
-- <인증 과정 분류 방법 및 그 장치> 출원번호 : 10 - 2020-0107970 
 
 ### ✨ HONORS & AWARDS
 - "한국인 안면 이미지를 활용한 마스크 착용 데이터 증강 및 마스크 착용 얼굴 인식", 우수상, <i>[KSC 2020 한국정보과학회](http://www.kiise.or.kr/academy/board/academyNewsView.fa?MENU_ID=080100&sch_add_bd=%ED%95%99%ED%9A%8C%EC%86%8C%EC%8B%9D&NUM=2127)</i>, Jan 2021.
