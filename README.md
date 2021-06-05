@@ -22,7 +22,7 @@
   - 영상 빅데이터기반 기계학습을 통한 스마트 범죄예방 솔루션 개발, 산업통상자원부, Nov 2017 - Jun 2018.
 
 ### 📚 Domestic Conference
-- <b>류재희</b>, 정은지, 김영민, ["한국인 안면 이미지를 활용한 마스크 착용 데이터 증강 및 마스크 착용 얼굴 인식"](https://hyu-my.sharepoint.com/:b:/g/personal/hyryu95_hanyang_ac_kr/Ee0U0lwF8-pMk5Y9dT7xpvoB64NElZmsAlE6Bf0l7Qg15g?e=cR46BM), KSC 2020 한국정보과학회, Dec 21 - 23, 2020. 
+- <b>류재희</b>, 정은지, 김영민, ["한국인 안면 이미지를 활용한 마스크 착용 데이터 증강 및 마스크 착용 얼굴 인식"](https://hyu-my.sharepoint.com/:b:/g/personal/hyryu95_hanyang_ac_kr/ETFy-p-1f8lLm2kSMhmZ3Y0B7Z9MqXn4PozfYcRbhTMx2w?e=AT6JTs), KSC 2020 한국정보과학회, Dec 21 - 23, 2020. 
 - 김은수, 조진수, <b>류재희</b>, 이동희, 민병석, ["객체탐지와 합성곱신경망을 이용한 음식물 이물질 탐지"](https://hyu-my.sharepoint.com/:b:/g/personal/hyryu95_hanyang_ac_kr/Ee0U0lwF8-pMk5Y9dT7xpvoB64NElZmsAlE6Bf0l7Qg15g?e=cR46BM), 품질경영학회, 대한상공회의소 추계학술대회, Oct 23, 2020.
 - 이초희, 양진경, <b>류재희</b>, 이동희 ["주성분회귀분석을 이용한 국가기초구역별 시간대별 범죄 예측 모델 개발"](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE07420676), 대한산업공학회 춘계학술대회, Apr 4-7, 2018.
 
